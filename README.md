@@ -34,6 +34,3 @@ A clean, modular, and beginner-friendly command-line application built in pure P
 - `smart_task_tracker.py`: Main execution script containing all logic operations and CLI visual interfaces.
 - `tasks.json`: An automatically generated data storage file initialized on your first save.
 - `README.md`: Main project documentation.
-
-## 👨‍💻 Resume Value
-This project functions as a structural template and allows you to showcase beginner-to-intermediate Python Software Development (SDE) skills. Feel free to clone, interact, tweak, and expand this app (e.g., by migrating the storage format to an SQLite Database or building a Flask frontend API) to bolster your resume!
