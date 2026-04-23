@@ -1,6 +1,6 @@
 # Smart Task & Productivity Tracker
 
-A clean, modular, and beginner-friendly command-line application built in pure Python to manage tasks and boost your productivity. It functions completely offline with zero external database requirements—storing your tasks directly into a local `.json` file.
+A clean, modular, and beginner-friendly command-line application built in pure Python to manage tasks and boost your productivity. It leverages core Python concepts such as lists, dictionaries, tuples, functions, loops, and file handling (JSON) to implement real-world task management logic, while functioning completely offline without any external database.
 
 ## 🚀 Features
 
